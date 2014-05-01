@@ -1,0 +1,1 @@
+Provides the simple account button to be used with `{{> loginButtons}}`
