@@ -1,0 +1,11 @@
+{
+  "name": "accounts-runkeeper",
+  "description": "Login service for RunKeeper",
+  "homepage": "https://github.com/matthewforr/meteor-accounts-runkeeper",
+  "author": "Matthew Forr <matthew.forr@gmail.com> (http://matthewforr.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/matthewforr/meteor-accounts-runkeeper.git",
+  "packages": {
+    "runkeeper": "0.1.0"
+  }
+}
